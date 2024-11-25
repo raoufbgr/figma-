@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+
+}
+.header ul ol{
+   margin-right: 10%;
+    display: inline; 
+    text-align: right;
+  padding: 10px;
+  text-align: right;
+}
+
+.header{
+    background-color: white;
+    margin: 0px 0px;
+}
+.qipper h1{
+    
+   
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50px;
+   
+}
+.qipper img{
+    float: left;
+    
+}
+.qipper{
+    text-align: left;
+    background-color: white;
+    padding: 10px;
+    height: 500px;
+    margin: 0px 0px;
+   
+}
+.qipper button{
+    background-color: red;
+    padding: 20px;
+    border: 0px;
+    color: white;
+    
+}
+.just {
+    
+    background-color: #F2F2F2;
+    padding: 10px;
+    height: 500px;
+    
+    
+}
+.just img{ 
+    float: right;
+    border-radius: 25px;
+    padding: 10px;
+}
+.just h1{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50px;
+   
+}
+.wecan{
+    margin: 0px 100px;
+    background-color: white;
+    padding: 10px;
+    height: 700px;
+
+}
+.wecan h1{
+
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.fill h1{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+
+}
+input {
+    border-color: red;
+    margin-left: 10%;
+}
+.fill form { 
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+.fill{
+    background-color: #F2F2F2;
+    padding: 10px;
+    height: 500px;
+}
+input[type=button]{
+    background-color: red;
+    padding: 20px;
+    border: 3px ; 
+    color: white;
+    display: block;
+   margin:5% 45%;
+   border-radius: 8px;
+   width: 180px;
+}
+.end{
+    text-align: left;
+    background-color: white;
+    padding: 10px;
+    height: 200px;
+    margin: 0px 0px;
+}
+ 
